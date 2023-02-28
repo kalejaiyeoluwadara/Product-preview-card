@@ -87,7 +87,7 @@ p{
 }
 #price{
    font-weight: 600;
-    font-family: 'Fraunces';
+    font-family: 'Fraunces',sans-serif;
     font-size: 35px;
     color: rgb(4 86 4);
     margin-right: 20px;
